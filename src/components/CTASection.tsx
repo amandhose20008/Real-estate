@@ -47,7 +47,7 @@ export default function CTASection() {
             {/* Contact Details */}
             <div className="space-y-4 mb-10">
               {[
-                { icon: Phone, label: 'Call Us', value: '+91 98765 43210 / +91 87654 32109' },
+                { icon: Phone, label: 'Call Us', value: '+91 91799 05115 / +91 96440 94724' },
                 { icon: Mail, label: 'Email', value: 'info@classicrealty.in' },
                 { icon: Calendar, label: 'Office Hours', value: 'Mon–Sat, 9AM–7PM IST' },
               ].map(({ icon: Icon, label, value }) => (

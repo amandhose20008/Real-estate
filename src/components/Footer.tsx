@@ -34,7 +34,7 @@ const socialLinks = [
   { icon: InstagramIcon, label: 'Instagram', href: 'https://instagram.com', color: 'hover:bg-pink-500/20 hover:border-pink-500/40 hover:text-pink-400' },
   { icon: FacebookIcon, label: 'Facebook', href: 'https://facebook.com', color: 'hover:bg-blue-500/20 hover:border-blue-500/40 hover:text-blue-400' },
   { icon: YoutubeIcon, label: 'YouTube', href: 'https://youtube.com', color: 'hover:bg-red-500/20 hover:border-red-500/40 hover:text-red-400' },
-  { icon: WhatsAppIcon, label: 'WhatsApp', href: 'https://wa.me/919876543210', color: 'hover:bg-green-500/20 hover:border-green-500/40 hover:text-green-400' },
+  { icon: WhatsAppIcon, label: 'WhatsApp', href: 'https://wa.me/919179905115', color: 'hover:bg-green-500/20 hover:border-green-500/40 hover:text-green-400' },
 ];
 
 export default function Footer() {
@@ -54,10 +54,10 @@ export default function Footer() {
                 className="flex items-center gap-2 bg-gold hover:bg-[#b8960e] text-[#0F172A] font-bold px-5 py-2.5 rounded-xl transition-all duration-300 text-sm"
               >
                 <Phone className="w-4 h-4" />
-                +91 98765 43210
+                +91 9179905115
               </a>
               <a
-                href="https://wa.me/919876543210"
+                href="https://wa.me/919179905115"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="flex items-center gap-2 bg-green-500 hover:bg-green-600 text-white font-bold px-5 py-2.5 rounded-xl transition-all duration-300 text-sm"
@@ -97,7 +97,7 @@ export default function Footer() {
             {/* Contact Info */}
             <div className="space-y-3 mb-8">
               {[
-                { icon: MapPin, text: 'Vijay Nagar, Indore, Madhya Pradesh — 452010' },
+                { icon: MapPin, text: '175 office No. Kanchan Tilak, Palasia, AB Road, Indore, Madhya Pradesh 452010' },
                 { icon: Phone, text: '+91 98765 43210 / +91 87654 32109' },
                 { icon: Mail, text: 'info@classicrealty.in' },
               ].map(({ icon: Icon, text }) => (

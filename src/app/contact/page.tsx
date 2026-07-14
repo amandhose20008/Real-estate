@@ -341,7 +341,7 @@ export default function ContactPage() {
                       </div>
                       <div>
                         <p className="font-semibold text-white mb-1">Office Address</p>
-                        <p className="text-white/60 text-sm">Classic Realty Indore<br />Vijay Nagar, Indore<br />Madhya Pradesh — 452010</p>
+                        <p className="text-white/60 text-sm">Classic Realty Indore<br />175 office No. Kanchan Tilak, Palasia, Indore<br />Madhya Pradesh — 452010</p>
                       </div>
                     </div>
                     <div className="flex gap-4">
