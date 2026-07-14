@@ -150,7 +150,7 @@ export default function HeroSection() {
               initial={{ opacity: 0, y: 40 }}
               animate={{ opacity: 1, y: 0 }}
               transition={{ duration: 0.9, delay: 0.8 }}
-              className="glass rounded-2xl p-3 sm:p-4"
+              className="glass lg:w-[120%] rounded-2xl p-3 sm:p-4"
             >
               <div className="flex flex-col sm:flex-row gap-3">
                 {/* Location Input */}
