@@ -148,7 +148,7 @@ export default function HeroSection() {
             {/* Search Bar */}
             <motion.div
               initial={{ opacity: 0, y: 40 }}
-              animate={{ opacity: 1, y: 0 }}
+              animate={{ opacity: 1, y: 0 }} 
               transition={{ duration: 0.9, delay: 0.8 }}
               className="glass lg:w-[120%] rounded-2xl p-3 sm:p-4"
             >
