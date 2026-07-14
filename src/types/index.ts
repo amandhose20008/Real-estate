@@ -27,7 +27,8 @@ export type PropertyType =
   | 'Warehouse'
   | 'Commercial Land'
   | 'Industrial'
-  | 'Co-working Space';
+  | 'Co-working Space'
+  | 'Showroom';
 
 export interface Agent {
   name: string;
