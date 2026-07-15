@@ -48,7 +48,7 @@ export default function CTASection() {
             <div className="space-y-4 mb-10">
               {[
                 { icon: Phone, label: 'Call Us', value: '+91 91799 05115 / +91 96440 94724' },
-                { icon: Mail, label: 'Email', value: 'info@classicrealty.in' },
+                { icon: Mail, label: 'Email', value: 'Lokeshkoushalindore@gmail.com' },
                 { icon: Calendar, label: 'Office Hours', value: 'Mon–Sat, 9AM–7PM IST' },
               ].map(({ icon: Icon, label, value }) => (
                 <div key={label} className="flex items-center gap-4">
@@ -140,7 +140,7 @@ export default function CTASection() {
                   <Calendar className="w-4 h-4 mr-2" />
                   Book Consultation
                 </Button>
-                <a href="https://wa.me/919876543210" target="_blank" rel="noopener noreferrer" className="flex-1">
+                <a href="https://wa.me/919179905115" target="_blank" rel="noopener noreferrer" className="flex-1">
                   <button
                     type="button"
                     className="w-full border-2 border-green-500/40 text-green-400 bg-green-500/10 hover:bg-green-500/20 font-semibold py-3.5 rounded-xl transition-all duration-300 flex items-center justify-center gap-2"
