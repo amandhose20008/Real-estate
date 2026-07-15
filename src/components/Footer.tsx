@@ -98,8 +98,8 @@ export default function Footer() {
             <div className="space-y-3 mb-8">
               {[
                 { icon: MapPin, text: '175 office No. Kanchan Tilak, Palasia, AB Road, Indore, Madhya Pradesh 452010' },
-                { icon: Phone, text: '+91 98765 43210 / +91 87654 32109' },
-                { icon: Mail, text: 'info@classicrealty.in' },
+                { icon: Phone, text: '+91 91799 05115 / +91 96440 94724' },
+                { icon: Mail, text: 'Lokeshkoushalindore@gmail.com' },
               ].map(({ icon: Icon, text }) => (
                 <div key={text} className="flex items-start gap-3 text-white/50 text-sm">
                   <Icon className="w-4 h-4 text-gold shrink-0 mt-0.5" />

@@ -106,7 +106,7 @@ export default function CTASection() {
                   <label className="text-white/60 text-xs font-medium mb-2 block">Phone Number</label>
                   <input
                     type="tel"
-                    placeholder="+91 98765 43210"
+                    placeholder="+91 91799 05115"
                     className="w-full bg-white/8 border border-white/15 rounded-xl px-4 py-3 text-white placeholder-white/30 text-sm focus:outline-none focus:border-gold/50 focus:ring-1 focus:ring-gold/30 transition-all"
                   />
                 </div>

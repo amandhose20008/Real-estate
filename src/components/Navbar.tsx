@@ -20,7 +20,7 @@ const socialLinks = [
   { icon: InstagramIcon, href: 'https://instagram.com', label: 'Instagram', color: 'hover:text-pink-400' },
   { icon: FacebookIcon, href: 'https://facebook.com', label: 'Facebook', color: 'hover:text-blue-400' },
   { icon: YoutubeIcon, href: 'https://youtube.com', label: 'YouTube', color: 'hover:text-red-400' },
-  { icon: WhatsAppIcon, href: 'https://wa.me/919876543210', label: 'WhatsApp', color: 'hover:text-green-400' },
+  { icon: WhatsAppIcon, href: 'https://wa.me/919179905115', label: 'WhatsApp', color: 'hover:text-green-400' },
 ];
 
 export default function Navbar() {
@@ -106,7 +106,7 @@ export default function Navbar() {
               ))}
             </div>
             <div className="w-px h-6 bg-white/20" />
-            <a href="tel:+919876543210">
+            <a href="tel:+919179905115">
               <Button
                 className="bg-gold hover:bg-[#b8960e] text-[#0F172A] font-semibold text-sm shadow-lg hover:shadow-gold/30 transition-all duration-300 hover:-translate-y-0.5 flex items-center gap-2"
               >
@@ -183,7 +183,7 @@ export default function Navbar() {
                 <a href="tel:+919876543210" className="block">
                   <Button className="w-full bg-gold hover:bg-[#b8960e] text-[#0F172A] font-semibold flex items-center justify-center gap-2">
                     <Phone className="w-4 h-4" />
-                    Call Now: +91 98765 43210
+                    Call Now: +91 91799 05115
                   </Button>
                 </a>
               </div>

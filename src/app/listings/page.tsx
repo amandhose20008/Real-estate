@@ -84,12 +84,12 @@ function PropertyCard({ property, index }: { property: typeof properties[0]; ind
             </div>
           )}
           <div className="flex gap-2">
-            <a href={`https://wa.me/919876543210?text=Hi, I am interested in ${property.title}`} target="_blank" rel="noopener noreferrer">
+            <a href={`https://wa.me/919179905115?text=Hi, I am interested in ${property.title}`} target="_blank" rel="noopener noreferrer">
               <button className="w-8 h-8 rounded-lg bg-green-50 border border-green-200 flex items-center justify-center text-green-600 hover:bg-green-100 transition-colors">
                 <MessageCircle className="w-4 h-4" />
               </button>
             </a>
-            <a href="tel:+919876543210">
+            <a href="tel:+919179905115">
               <button className="w-8 h-8 rounded-lg bg-[#0F172A]/5 border border-[#0F172A]/10 flex items-center justify-center text-[#0F172A] hover:bg-[#0F172A]/10 transition-colors">
                 <Phone className="w-4 h-4" />
               </button>
@@ -314,7 +314,7 @@ export default function ListingsPage() {
                     Share Your Requirements <ArrowRight className="w-4 h-4" />
                   </button>
                 </Link>
-                <a href="https://wa.me/919876543210" target="_blank" rel="noopener noreferrer">
+                <a href="https://wa.me/919179905115" target="_blank" rel="noopener noreferrer">
                   <button className="bg-green-500 hover:bg-green-600 text-white font-bold px-8 py-4 rounded-xl transition-all duration-300 flex items-center gap-2">
                     <MessageCircle className="w-4 h-4" />
                     WhatsApp Us

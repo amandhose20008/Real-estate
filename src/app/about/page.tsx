@@ -8,7 +8,7 @@ import Footer from '@/components/Footer';
 import Link from 'next/link';
 
 const team = [
-  { name: 'Lokesh Koushal', role: 'Founder & CEO', experience: '15+ Years', avatar: 'https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=200&q=80', speciality: 'Commercial Leasing' },
+  { name: 'Lokesh Koushal', role: 'Founder & CEO', experience: '15+ Years', avatar: '/unnamed.jpg', speciality: 'Commercial Leasing' },
   { name: 'Priya Joshi', role: 'Senior Property Advisor', experience: '10+ Years', avatar: 'https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=200&q=80', speciality: 'Showroom & Retail' },
   { name: 'Amit Patel', role: 'Industrial Property Expert', experience: '12+ Years', avatar: 'https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=200&q=80', speciality: 'Warehouse & Industrial' },
   { name: 'Sneha Gupta', role: 'Investment Advisor', experience: '8+ Years', avatar: 'https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=200&q=80', speciality: 'Commercial Investments' },

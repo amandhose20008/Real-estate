@@ -14,7 +14,7 @@ export const properties: Property[] = [
     image: 'https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80',
     description: 'Premium Class-A office space in the heart of Vijay Nagar with modern amenities, 24/7 security and excellent connectivity.',
     features: ['24/7 Security', 'Parking Available', 'Fiber Internet', 'Conference Room', 'Power Backup'],
-    agent: { name: 'Rahul Sharma', avatar: 'https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=100&q=80', phone: '+91 98765 43210', rating: 4.9, deals: 127 },
+    agent: { name: 'Rahul Sharma', avatar: 'https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=100&q=80', phone: '+91 91799 05115', rating: 4.9, deals: 127 },
     roi: '8.2%',
     isVerified: true,
     isFeatured: true,
