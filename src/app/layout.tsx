@@ -46,6 +46,9 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en" className="scroll-smooth">
+      <head>
+        <meta  name="facebook-domain-verification"content="ckqyc1ffa894fxqhyjpdf0ghev2k0i"/>
+      </head>
       <body
         className={`${inter.variable} ${playfair.variable} antialiased bg-white`}
       >
